@@ -1,0 +1,1 @@
+plain simple footer base.
